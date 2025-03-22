@@ -1,0 +1,10 @@
+﻿# Benchmark Configuration
+general:
+  num_vectors: [10000, 100000, 1000000]
+  vector_dims: [512, 1024, 2048]
+  batch_sizes: [1, 10, 100]
+
+metrics:
+  measure_latency: true
+  measure_throughput: true
+  measure_accuracy: true

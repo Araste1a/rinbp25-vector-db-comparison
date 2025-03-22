@@ -1,0 +1,1 @@
+﻿# Weaviate Database Client Implementation
