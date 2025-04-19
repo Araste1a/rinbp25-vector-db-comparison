@@ -1,1 +1,0 @@
-﻿# PGVector Database Client Implementation

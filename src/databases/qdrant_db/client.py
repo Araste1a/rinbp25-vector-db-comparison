@@ -1,1 +1,0 @@
-﻿# Qdrant Database Client Implementation
