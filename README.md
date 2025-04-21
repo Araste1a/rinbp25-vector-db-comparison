@@ -340,20 +340,4 @@ Results are automatically generated from both Colab notebooks (Chroma) and Pytho
 - Trade-offs between speed and accuracy
 - Comparative analysis across databases
 
-## Contributing
-
-Feel free to contribute by:
-1. Opening issues for bugs or suggestions
-2. Submitting pull requests with improvements:
-   - Chroma: Enhance Colab notebooks
-   - pgvector/Milvus: Improve Python scripts
-3. Adding new test scenarios:
-   - Additional vector dimensions
-   - Different data distributions
-   - New performance metrics
-4. Sharing your test results from different environments:
-   - Various cloud providers
-   - Different hardware configurations
-   - Alternative database versions
-
 See `specs.md` for detailed technical specifications and benchmarking methodology.
